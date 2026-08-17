@@ -7,9 +7,9 @@
       "version": "0.3.2",
       "label": "Canadian Legislative Corpus (CLC)",
       "description": "Adds a Knowledge Library + associated model to AXM's Open WebUI: the full consolidated corpus of Canadian federal law - Acts, Regulations, Statutory Instruments (Orders in Council) and the Constitution, converted from Justice Canada's own structured XML.",
-      "filesize": 28626341,
-      "sha256": "1b4e9cb107c1f1e6c69ee41662706ea7d34efa79f83bd65090c673f529fe4282",
-      "uploaded_at": "2026-08-17T07:07:27Z",
+      "filesize": 28626343,
+      "sha256": "276c24dab522c4393b4b851f2c1da67de0279d8c825ed20a77c571928ce744ae",
+      "uploaded_at": "2026-08-17T07:20:21Z",
       "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-canadian-legislative-corpus-0.3.2/nscoesn-ingot-kl-canadian-legislative-corpus.tar.gz"
     },
     {
@@ -19,9 +19,9 @@
       "version": "0.6.0",
       "label": "Cyber Engineering Baselines (STC)",
       "description": "Adds a Knowledge Library + associated model to AXM's Open WebUI: federal cyber-engineering baselines (ITSG-33, Zero Trust, cloud security guidance, satellite comms). 0.3.0 adds the Annex 4A control-selection tables (extracted from CSE's PDFs - they are absent from the HTML annexes entirely) and a Kuzu control graph exposed as an Open WebUI tool. 0.3.1 fixes three graph queries that failed on Kuzu reserved words and never returned a row. 0.5.0 adds 1,457 control-to-control RELATED_TO edges extracted from Annex 3A's 'Related controls:' statements with three traversal tools, a did-you-mean answer for an unrecognised control id, and a true total on a truncated result list.",
-      "filesize": 1873866,
-      "sha256": "dfdf7acf0331904d36b53874a936a41d8ad7684940fbda986a9b49d400a26244",
-      "uploaded_at": "2026-08-17T07:07:43Z",
+      "filesize": 1873893,
+      "sha256": "67fda94ce8cfac064a7c46ef4cbb34827637494d9001e2343bdaa2ca287e7e78",
+      "uploaded_at": "2026-08-17T07:20:34Z",
       "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-cyber-engineering-baselines-0.6.0/nscoesn-ingot-kl-cyber-engineering-baselines.tar.gz"
     },
     {
@@ -31,9 +31,9 @@
       "version": "0.3.2",
       "label": "Government Policy Corpus (GPC)",
       "description": "Adds a Knowledge Library + associated model to AXM's Open WebUI: Government of Canada policy instruments - Treasury Board policies, directives and standards, CSE guidance (the ITSG/ITSP/ITSM/ITSAP series), and RCMP guidance documents.",
-      "filesize": 7795410,
-      "sha256": "894f752fed85cdf9bb21baeac0bae136c42a42a39fc0e1d2edb7ebe6e91fff71",
-      "uploaded_at": "2026-08-17T07:07:48Z",
+      "filesize": 7795368,
+      "sha256": "308ce87dc08760261d0ebe3eeda4bca36f527c4d0cc49bce7bad039765232d43",
+      "uploaded_at": "2026-08-17T07:20:38Z",
       "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-government-policy-corpus-0.3.2/nscoesn-ingot-kl-government-policy-corpus.tar.gz"
     },
     {
@@ -43,9 +43,9 @@
       "version": "0.3.2",
       "label": "International Legal Corpus (ILC)",
       "description": "Adds a Knowledge Library + associated model to AXM's Open WebUI: international law and state practice - UN Charter, ARSIWA, the Geneva Conventions and Additional Protocols with ICRC commentary, the Customary IHL study, UNCLOS, the Outer Space Treaty, the ICCPR, Canada's UN Act sanctions regulations, and the CCDCOE Cyber Law Toolkit.",
-      "filesize": 28278339,
-      "sha256": "cfba108aad5901da0f3cd5224b3ec780ff8491663a442b7ca37e94574f589af4",
-      "uploaded_at": "2026-08-17T07:07:54Z",
+      "filesize": 28278420,
+      "sha256": "b45892226d91ca6d835aeba5c1fcbd6e1c664835959cce6fa5f8f88a46b057b4",
+      "uploaded_at": "2026-08-17T07:20:44Z",
       "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-international-legal-corpus-0.3.2/nscoesn-ingot-kl-international-legal-corpus.tar.gz"
     },
     {
@@ -55,9 +55,9 @@
       "version": "0.3.3",
       "label": "Public Address Register (PAR)",
       "description": "Adds a Knowledge Library + TWO associated models to AXM's Open WebUI: the historic public-address archive. Two models against one collection because the library serves two incompatible tasks - a citation-grounded consistency check at low temperature, and generative voice-matched drafting at a higher one; Open WebUI carries only one temperature per Model.",
-      "filesize": 590679,
-      "sha256": "3ccf8999c7c7304493a698b5b10489b767e60e1ed7a00aa8a5ef03867a83ece4",
-      "uploaded_at": "2026-08-17T07:08:06Z",
+      "filesize": 590693,
+      "sha256": "f6ca54ae335ccf34e37aac3fbb77a58603c8a8357dafea368c5bb747406a900b",
+      "uploaded_at": "2026-08-17T07:20:59Z",
       "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-public-address-register-0.3.3/nscoesn-ingot-kl-public-address-register.tar.gz"
     },
     {
@@ -68,8 +68,8 @@
       "label": "Quantum Migration & Encryption (QME)",
       "description": "Adds a Knowledge Library + associated model to AXM's Open WebUI: the post-quantum migration corpus - CSE's PQC roadmap (ITSM.40.001) and algorithm baseline (ITSP.40.111), TBS's SPIN mandate, the FIPS/SP originals for the algorithms themselves, and the NIST bridge material tying security strength and CRQC threat to migration timelines. 0.4.0 adds a hand-curated Kuzu graph of the baseline - 66 algorithms with their approval status, dated phase-out obligations (with CSE's conditional 'without a post-quantum scheme' wording carried on the edge), equivalent-strength post-quantum replacements, quantum threat applicability and the CSE/TBS migration timeline - exposed as an Open WebUI tool with typed functions and no raw-Cypher escape hatch. 0.4.1 adds algorithm_family(), after an end-to-end run showed the model making three wrong-shaped tool calls and running out of context on 'how many SLH-DSA parameter sets does CSE recommend' - there was no function for the members of a family, and there is now. 0.5.0 fixes what the model is actually shown: every wrapped :param description was being silently truncated at its first newline by Open WebUI's docstring parser, so the model saw algorithms_by_quantum_effect's enum as \"one of 'broken' (Shor), 'weakened' (Grover), 'no transition\" and never called it - measured 0 of 4 before, firing after. It also rewords algorithms_by_quantum_effect for the broken-versus-weakened question, and makes algorithms_with_deadline, algorithms_approved_at and algorithms_by_quantum_effect state their row count in prose, which took the end-of-2035 completeness question from a correct list nobody counted to one that says 'six'.",
       "filesize": 24931001,
-      "sha256": "596f5d58a24e8d381e38ec0c6503d0be3254628b5a38f91f838f0f0e6dd760ac",
-      "uploaded_at": "2026-08-17T07:08:09Z",
+      "sha256": "ab63270ca891b99393d45891f09371db7653ab8a91587ca4ebc9f1ab4ce4b136",
+      "uploaded_at": "2026-08-17T07:21:02Z",
       "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-quantum-migration-cryptography-0.5.1/nscoesn-ingot-kl-quantum-migration-cryptography.tar.gz"
     },
     {
@@ -79,9 +79,9 @@
       "version": "0.25.0",
       "label": "Active Conflict Monitoring (ACM)",
       "description": "Adds conflict monitoring to the ORE, for internal use only.",
-      "filesize": 1372242,
-      "sha256": "8a22a88428af8fff3316910bcf48a52bff6b31c0a24c44e957d67693ccfc38d2",
-      "uploaded_at": "2026-08-17T07:07:20Z",
+      "filesize": 1372241,
+      "sha256": "e65b999724d880544d184d4943b8c826e1efefa47caf2a93d848d68d3dbbb899",
+      "uploaded_at": "2026-08-17T07:20:15Z",
       "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/acm-0.25.0/nscoesn-ingot-acm.tar.gz"
     },
     {
@@ -91,9 +91,9 @@
       "version": "0.5.5",
       "label": "AI Extensible Module (AXM)",
       "description": "Adds a private AI assistant to the ORE, for internal use.",
-      "filesize": 118177,
-      "sha256": "9afc8fabbcbf3719192fbb8144e7ffa56a257a56922552a67354e7ced8017be3",
-      "uploaded_at": "2026-08-17T07:07:24Z",
+      "filesize": 118179,
+      "sha256": "72ebe23a3993f821a5d9827f3df10249c928c78effceec3e094c56bfbaa08f34",
+      "uploaded_at": "2026-08-17T07:20:19Z",
       "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/axm-0.5.5/nscoesn-ingot-axm.tar.gz"
     }
   ]
