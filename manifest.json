@@ -7,9 +7,9 @@
       "version": "0.3.2",
       "label": "Canadian Legislative Corpus (CLC)",
       "description": "Adds a Knowledge Library + associated model to AXM's Open WebUI: the full consolidated corpus of Canadian federal law - Acts, Regulations, Statutory Instruments (Orders in Council) and the Constitution, converted from Justice Canada's own structured XML.",
-      "filesize": 28626353,
-      "sha256": "afc38408c66f374a0085f018de4682fae6a9383d7d4fdf452078cb4a0ee88d5c",
-      "uploaded_at": "2026-08-17T12:16:07Z",
+      "filesize": 28626376,
+      "sha256": "8a0252f44e202c1df6d733403b42b012c501e1977c573cfced4fa84fdc3323fb",
+      "uploaded_at": "2026-08-17T12:46:51Z",
       "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-canadian-legislative-corpus-0.3.2/nscoesn-ingot-kl-canadian-legislative-corpus.tar.gz"
     },
     {
@@ -19,9 +19,9 @@
       "version": "0.6.0",
       "label": "Cyber Engineering Baselines (STC)",
       "description": "Adds a Knowledge Library + associated model to AXM's Open WebUI: federal cyber-engineering baselines (ITSG-33, Zero Trust, cloud security guidance, satellite comms). 0.3.0 adds the Annex 4A control-selection tables (extracted from CSE's PDFs - they are absent from the HTML annexes entirely) and a Kuzu control graph exposed as an Open WebUI tool. 0.3.1 fixes three graph queries that failed on Kuzu reserved words and never returned a row. 0.5.0 adds 1,457 control-to-control RELATED_TO edges extracted from Annex 3A's 'Related controls:' statements with three traversal tools, a did-you-mean answer for an unrecognised control id, and a true total on a truncated result list.",
-      "filesize": 1874028,
-      "sha256": "4de5a0437c2d15f9fb955511ba17e186276c137b780c8e66379e6f652c241e0f",
-      "uploaded_at": "2026-08-17T12:16:20Z",
+      "filesize": 1874048,
+      "sha256": "6f4ea47ea34ee2bea854e650e6e480c42073a468b34aae19c84d700bc71a038d",
+      "uploaded_at": "2026-08-17T12:47:04Z",
       "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-cyber-engineering-baselines-0.6.0/nscoesn-ingot-kl-cyber-engineering-baselines.tar.gz"
     },
     {
@@ -31,9 +31,9 @@
       "version": "0.3.2",
       "label": "Government Policy Corpus (GPC)",
       "description": "Adds a Knowledge Library + associated model to AXM's Open WebUI: Government of Canada policy instruments - Treasury Board policies, directives and standards, CSE guidance (the ITSG/ITSP/ITSM/ITSAP series), and RCMP guidance documents.",
-      "filesize": 7795364,
-      "sha256": "fc8d14a3e2dcebedf6fcc0369a1dde44d13875ae8c6dd32ef160afeb15f0621e",
-      "uploaded_at": "2026-08-17T12:16:23Z",
+      "filesize": 7795429,
+      "sha256": "c3f15534d42e4ce9e1de0ce874e29066b72d0a60bb3500a05b0d1c08bd545528",
+      "uploaded_at": "2026-08-17T12:47:09Z",
       "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-government-policy-corpus-0.3.2/nscoesn-ingot-kl-government-policy-corpus.tar.gz"
     },
     {
@@ -43,9 +43,9 @@
       "version": "0.3.2",
       "label": "International Legal Corpus (ILC)",
       "description": "Adds a Knowledge Library + associated model to AXM's Open WebUI: international law and state practice - UN Charter, ARSIWA, the Geneva Conventions and Additional Protocols with ICRC commentary, the Customary IHL study, UNCLOS, the Outer Space Treaty, the ICCPR, Canada's UN Act sanctions regulations, and the CCDCOE Cyber Law Toolkit.",
-      "filesize": 28278424,
-      "sha256": "a63f5d38c258dfaa445d4cdb9af5bf0da2b5b5a1c0b07b51e120abbddaf44d7d",
-      "uploaded_at": "2026-08-17T12:16:30Z",
+      "filesize": 28278445,
+      "sha256": "be32a3795e48839c7355c53a9d7c2ecb830467a078141bef17737fecae148bfb",
+      "uploaded_at": "2026-08-17T12:47:15Z",
       "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-international-legal-corpus-0.3.2/nscoesn-ingot-kl-international-legal-corpus.tar.gz"
     },
     {
@@ -55,9 +55,9 @@
       "version": "0.3.3",
       "label": "Public Address Register (PAR)",
       "description": "Adds a Knowledge Library + TWO associated models to AXM's Open WebUI: the historic public-address archive. Two models against one collection because the library serves two incompatible tasks - a citation-grounded consistency check at low temperature, and generative voice-matched drafting at a higher one; Open WebUI carries only one temperature per Model.",
-      "filesize": 590714,
-      "sha256": "1579a9cd94f42a2832c3ecd21302dc00f4e759f78f5cbba61e398c274c1cbbbe",
-      "uploaded_at": "2026-08-17T12:16:48Z",
+      "filesize": 590727,
+      "sha256": "7b1da19b1e61e24fb651df42c5413e55a9288dccefa77416c90eeeb7eed5a6cb",
+      "uploaded_at": "2026-08-17T12:47:28Z",
       "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-public-address-register-0.3.3/nscoesn-ingot-kl-public-address-register.tar.gz"
     },
     {
@@ -67,9 +67,9 @@
       "version": "0.5.1",
       "label": "Quantum Migration & Encryption (QME)",
       "description": "Adds a Knowledge Library + associated model to AXM's Open WebUI: the post-quantum migration corpus - CSE's PQC roadmap (ITSM.40.001) and algorithm baseline (ITSP.40.111), TBS's SPIN mandate, the FIPS/SP originals for the algorithms themselves, and the NIST bridge material tying security strength and CRQC threat to migration timelines. 0.4.0 adds a hand-curated Kuzu graph of the baseline - 66 algorithms with their approval status, dated phase-out obligations (with CSE's conditional 'without a post-quantum scheme' wording carried on the edge), equivalent-strength post-quantum replacements, quantum threat applicability and the CSE/TBS migration timeline - exposed as an Open WebUI tool with typed functions and no raw-Cypher escape hatch. 0.4.1 adds algorithm_family(), after an end-to-end run showed the model making three wrong-shaped tool calls and running out of context on 'how many SLH-DSA parameter sets does CSE recommend' - there was no function for the members of a family, and there is now. 0.5.0 fixes what the model is actually shown: every wrapped :param description was being silently truncated at its first newline by Open WebUI's docstring parser, so the model saw algorithms_by_quantum_effect's enum as \"one of 'broken' (Shor), 'weakened' (Grover), 'no transition\" and never called it - measured 0 of 4 before, firing after. It also rewords algorithms_by_quantum_effect for the broken-versus-weakened question, and makes algorithms_with_deadline, algorithms_approved_at and algorithms_by_quantum_effect state their row count in prose, which took the end-of-2035 completeness question from a correct list nobody counted to one that says 'six'.",
-      "filesize": 24930976,
-      "sha256": "04a6e50dcd0fa1c8a09d0ae41d52a3ce18082f2fe3d0222d112e7d017493536c",
-      "uploaded_at": "2026-08-17T12:16:51Z",
+      "filesize": 24931015,
+      "sha256": "d4ec43684c7026946e99492c5afb65896e09ff3148e93fb1ebee08fe20526d0e",
+      "uploaded_at": "2026-08-17T12:47:31Z",
       "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-quantum-migration-cryptography-0.5.1/nscoesn-ingot-kl-quantum-migration-cryptography.tar.gz"
     },
     {
@@ -79,9 +79,9 @@
       "version": "0.25.0",
       "label": "Active Conflict Monitoring (ACM)",
       "description": "Adds conflict monitoring to the ORE, for internal use only.",
-      "filesize": 1372237,
-      "sha256": "67bcb79acf54fc7947b4ed49f1e3d6d3e16959e51c731c14759a1fafdb8308a0",
-      "uploaded_at": "2026-08-17T12:16:01Z",
+      "filesize": 1372266,
+      "sha256": "59c9f331d880fb85f11e27deffc50dd2870a72e4941fb4ae8b898be1db11d664",
+      "uploaded_at": "2026-08-17T12:46:44Z",
       "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/acm-0.25.0/nscoesn-ingot-acm.tar.gz"
     },
     {
@@ -91,10 +91,34 @@
       "version": "0.5.5",
       "label": "AI Extensible Module (AXM)",
       "description": "Adds a private AI assistant to the ORE, for internal use.",
-      "filesize": 118167,
-      "sha256": "fc8958425bfbb11cd0ba744992ad53d4c2754951584a4bb366ff7bca18f2d681",
-      "uploaded_at": "2026-08-17T12:16:04Z",
+      "filesize": 118202,
+      "sha256": "f1022938138678f467f5fe879bdb5cb4752c00b3ed3f8de5a3bee53804f8fc50",
+      "uploaded_at": "2026-08-17T12:46:48Z",
       "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/axm-0.5.5/nscoesn-ingot-axm.tar.gz"
+    },
+    {
+      "filename": "nscoesn-ingot-openssh.tar.gz",
+      "ingot": "openssh",
+      "category": "utility",
+      "version": "1.0.1",
+      "label": "OpenSSH",
+      "description": "Installs and enables OpenSSH with root login, for temporary remote access during rebuilds/testing. Fully removable; coexists with ACM/AXM.",
+      "filesize": 4806,
+      "sha256": "74b9ce404e3bd769eab944a2fcad37741fb50b0b3b1b8748a6b68c007060e153",
+      "uploaded_at": "2026-08-17T12:47:43Z",
+      "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/openssh-1.0.1/nscoesn-ingot-openssh.tar.gz"
+    },
+    {
+      "filename": "nscoesn-ingot-trust-anchor-update.tar.gz",
+      "ingot": "trust-anchor-update",
+      "category": "utility",
+      "version": "0.1.1",
+      "label": "Ingot Trust Anchor Update",
+      "description": "Lands new Ingot trust-anchor material (a sub-key certificate, or - rarely - a rotated master public key) onto an already-deployed Crucible via the same Install Stack mechanism as any other utility Ingot, so trust-anchor changes reach boxes in the field without a full ISO rebuild/reflash. Additive only - never removes an existing key/certificate; retirement happens via that key's own expiry or a local disable toggle on the Encryption page, not by deleting files here.",
+      "filesize": 10972,
+      "sha256": "84b4ab0f27aa55db8f953994dc473f0aa413ddfe9292d662abe13c4dc2cd3fcb",
+      "uploaded_at": "2026-08-17T12:47:46Z",
+      "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/trust-anchor-update-0.1.1/nscoesn-ingot-trust-anchor-update.tar.gz"
     }
   ]
 }
