@@ -4,73 +4,73 @@
       "filename": "nscoesn-ingot-kl-canadian-legislative-corpus.tar.gz",
       "ingot": "kl-canadian-legislative-corpus",
       "category": "kl",
-      "version": "0.4.4",
+      "version": "0.4.5",
       "label": "Ingot: Canadian Legislative Corpus (CLC)",
       "description": "Adds a Knowledge Library + associated model to AXM's Open WebUI: the full consolidated corpus of Canadian federal law - Acts, Regulations, Statutory Instruments (Orders in Council) and the Constitution, converted from Justice Canada's own structured XML.",
-      "filesize": 28630296,
-      "sha256": "b8447244b98edd32e516b24f84f4b520e9e7f88850eca07f4938e9c6f1a013a8",
-      "uploaded_at": "2026-08-31T08:44:12Z",
-      "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-canadian-legislative-corpus-0.4.4/nscoesn-ingot-kl-canadian-legislative-corpus.tar.gz"
+      "filesize": 28632840,
+      "sha256": "da7926e6a195c4eef8d5e8ec70cfb21bbbc5cda08180f50342cd4ee6effa2007",
+      "uploaded_at": "2026-08-31T14:01:09Z",
+      "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-canadian-legislative-corpus-0.4.5/nscoesn-ingot-kl-canadian-legislative-corpus.tar.gz"
     },
     {
       "filename": "nscoesn-ingot-kl-cyber-engineering-baselines.tar.gz",
       "ingot": "kl-cyber-engineering-baselines",
       "category": "kl",
-      "version": "0.7.4",
+      "version": "0.7.5",
       "label": "Ingot: Cyber Engineering Baselines (STC)",
       "description": "Adds a Knowledge Library + associated model to AXM's Open WebUI: federal cyber-engineering baselines (ITSG-33, Zero Trust, cloud security guidance, satellite comms). 0.3.0 adds the Annex 4A control-selection tables (extracted from CSE's PDFs - they are absent from the HTML annexes entirely) and a Kuzu control graph exposed as an Open WebUI tool. 0.3.1 fixes three graph queries that failed on Kuzu reserved words and never returned a row. 0.5.0 adds 1,457 control-to-control RELATED_TO edges extracted from Annex 3A's 'Related controls:' statements with three traversal tools, a did-you-mean answer for an unrecognised control id, and a true total on a truncated result list.",
-      "filesize": 1877965,
-      "sha256": "2ffa6d586cd2d33ea84bcccff391c836bec6004dda2d71981683ff6421e0b6c6",
-      "uploaded_at": "2026-08-31T08:44:25Z",
-      "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-cyber-engineering-baselines-0.7.4/nscoesn-ingot-kl-cyber-engineering-baselines.tar.gz"
+      "filesize": 1880554,
+      "sha256": "17f51d4f38c72a0d12a0d7e35052d6cf83cd6b077e2c5bffb56334dc03209ecd",
+      "uploaded_at": "2026-08-31T14:01:25Z",
+      "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-cyber-engineering-baselines-0.7.5/nscoesn-ingot-kl-cyber-engineering-baselines.tar.gz"
     },
     {
       "filename": "nscoesn-ingot-kl-government-policy-corpus.tar.gz",
       "ingot": "kl-government-policy-corpus",
       "category": "kl",
-      "version": "0.5.4",
+      "version": "0.5.5",
       "label": "Ingot: Government Policy Corpus (GPC)",
       "description": "Adds a Knowledge Library + associated model to AXM's Open WebUI: Government of Canada policy instruments - Treasury Board policies, directives and standards, CSE guidance (the ITSG/ITSP/ITSM/ITSAP series), and RCMP guidance documents.",
-      "filesize": 5422306,
-      "sha256": "45b0ca1f313101ed86d41ee69cdd379e496aae8ff7ffd83610b8bb782c81be92",
-      "uploaded_at": "2026-08-31T08:44:28Z",
-      "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-government-policy-corpus-0.5.4/nscoesn-ingot-kl-government-policy-corpus.tar.gz"
+      "filesize": 5424715,
+      "sha256": "d20cf6863afad66c9ac2a1dc676c3dbde08a80519ddf329537911be94a63cc6c",
+      "uploaded_at": "2026-08-31T14:01:30Z",
+      "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-government-policy-corpus-0.5.5/nscoesn-ingot-kl-government-policy-corpus.tar.gz"
     },
     {
       "filename": "nscoesn-ingot-kl-international-legal-corpus.tar.gz",
       "ingot": "kl-international-legal-corpus",
       "category": "kl",
-      "version": "0.4.5",
+      "version": "0.4.6",
       "label": "Ingot: International Legal Corpus (ILC)",
       "description": "Adds a Knowledge Library + associated model to AXM's Open WebUI: international law and state practice - UN Charter, ARSIWA, the Geneva Conventions and Additional Protocols with ICRC commentary, the Customary IHL study, UNCLOS, the Outer Space Treaty, the ICCPR, Canada's UN Act sanctions regulations, and the CCDCOE Cyber Law Toolkit.",
-      "filesize": 28283765,
-      "sha256": "13c12ed8501516e7200240549d4e02f1dfb2e799d58fab8bb81f5bcfcf0f5654",
-      "uploaded_at": "2026-08-31T08:44:34Z",
-      "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-international-legal-corpus-0.4.5/nscoesn-ingot-kl-international-legal-corpus.tar.gz"
+      "filesize": 28286322,
+      "sha256": "d4d316b504723743ca43354c47c04dd5aa1bef0631bbf808ebd0a7224e434a50",
+      "uploaded_at": "2026-08-31T14:01:37Z",
+      "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-international-legal-corpus-0.4.6/nscoesn-ingot-kl-international-legal-corpus.tar.gz"
     },
     {
       "filename": "nscoesn-ingot-kl-public-address-register.tar.gz",
       "ingot": "kl-public-address-register",
       "category": "kl",
-      "version": "0.4.4",
+      "version": "0.4.5",
       "label": "Ingot: Public Address Register (PAR)",
       "description": "Adds a Knowledge Library + TWO associated models to AXM's Open WebUI: the historic public-address archive. Two models against one collection because the library serves two incompatible tasks - a citation-grounded consistency check at low temperature, and generative voice-matched drafting at a higher one; Open WebUI carries only one temperature per Model.",
-      "filesize": 594623,
-      "sha256": "a492c459374f59fe611831cc360c0e5bfe012a8de00305e1050dbc8588c72d24",
-      "uploaded_at": "2026-08-31T08:44:50Z",
-      "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-public-address-register-0.4.4/nscoesn-ingot-kl-public-address-register.tar.gz"
+      "filesize": 597161,
+      "sha256": "e4a19a45d1d2b5c2703d31fae5c623b2540247daffbcfde2284a55c0f6202486",
+      "uploaded_at": "2026-08-31T14:01:56Z",
+      "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-public-address-register-0.4.5/nscoesn-ingot-kl-public-address-register.tar.gz"
     },
     {
       "filename": "nscoesn-ingot-kl-quantum-migration-cryptography.tar.gz",
       "ingot": "kl-quantum-migration-cryptography",
       "category": "kl",
-      "version": "0.6.4",
+      "version": "0.6.5",
       "label": "Ingot: Quantum Migration & Encryption (QME)",
       "description": "Adds a Knowledge Library + associated model to AXM's Open WebUI: the post-quantum migration corpus - CSE's PQC roadmap (ITSM.40.001) and algorithm baseline (ITSP.40.111), TBS's SPIN mandate, the FIPS/SP originals for the algorithms themselves, and the NIST bridge material tying security strength and CRQC threat to migration timelines. 0.4.0 adds a hand-curated Kuzu graph of the baseline - 66 algorithms with their approval status, dated phase-out obligations (with CSE's conditional 'without a post-quantum scheme' wording carried on the edge), equivalent-strength post-quantum replacements, quantum threat applicability and the CSE/TBS migration timeline - exposed as an Open WebUI tool with typed functions and no raw-Cypher escape hatch. 0.4.1 adds algorithm_family(), after an end-to-end run showed the model making three wrong-shaped tool calls and running out of context on 'how many SLH-DSA parameter sets does CSE recommend' - there was no function for the members of a family, and there is now. 0.5.0 fixes what the model is actually shown: every wrapped :param description was being silently truncated at its first newline by Open WebUI's docstring parser, so the model saw algorithms_by_quantum_effect's enum as \"one of 'broken' (Shor), 'weakened' (Grover), 'no transition\" and never called it - measured 0 of 4 before, firing after. It also rewords algorithms_by_quantum_effect for the broken-versus-weakened question, and makes algorithms_with_deadline, algorithms_approved_at and algorithms_by_quantum_effect state their row count in prose, which took the end-of-2035 completeness question from a correct list nobody counted to one that says 'six'. 0.5.2 renames algorithm_status's single parameter from 'algorithm' to 'name' and changes nothing else. That parameter name is the only difference between a captured turn-1 request that Ollama's Glimmer tool-call parser refused 4 times in 20 replays (4 of its 10 tool-call attempts) and the same request, byte for byte, that it refused 0 times in 20 at the same invocation rate - handoff item 24, the ATEM 400 that had cost three abandoned QME measurements. Fisher p = 0.09, so the fix is suggestive rather than settled; it is shipped because it is free, it cannot reduce invocation, and nscoesn-kl-tool-check.py now asserts the signature so it cannot be renamed back for tidiness.",
-      "filesize": 24934949,
-      "sha256": "ab6d388a064f366f4e39322348e607ea2ecd8aab12e8565e84560ab93de0f3c7",
-      "uploaded_at": "2026-08-31T08:44:53Z",
-      "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-quantum-migration-cryptography-0.6.4/nscoesn-ingot-kl-quantum-migration-cryptography.tar.gz"
+      "filesize": 24937522,
+      "sha256": "32cc821960ca17be41bb689195fd3f6e05177ea566e2b1609408ec7ce2bb5beb",
+      "uploaded_at": "2026-08-31T14:02:01Z",
+      "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/kl-quantum-migration-cryptography-0.6.5/nscoesn-ingot-kl-quantum-migration-cryptography.tar.gz"
     },
     {
       "filename": "nscoesn-ingot-acm.tar.gz",
@@ -88,13 +88,13 @@
       "filename": "nscoesn-ingot-axm.tar.gz",
       "ingot": "axm",
       "category": "module",
-      "version": "0.9.4",
+      "version": "0.9.5",
       "label": "Ingot: AI Extensible Module (AXM)",
       "description": "Adds a private AI assistant to the ORE.",
-      "filesize": 168799,
-      "sha256": "57933507e8ae91e0c299a7079187d26a14b554c554808a7defb17427b88a9bc1",
-      "uploaded_at": "2026-08-31T08:44:09Z",
-      "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/axm-0.9.4/nscoesn-ingot-axm.tar.gz"
+      "filesize": 170390,
+      "sha256": "e0caa99141c4eac2b6c9f69fedb7594339ef85d33b3e97e0d6aeabdaee10fa0c",
+      "uploaded_at": "2026-08-31T14:01:04Z",
+      "download_url": "https://github.com/nscoesn/nscoesn-ingots-releases/releases/download/axm-0.9.5/nscoesn-ingot-axm.tar.gz"
     },
     {
       "filename": "nscoesn-ingot-openssh.tar.gz",
@@ -125,101 +125,101 @@
   "subkey_id": "sk2027",
   "expires": "2028-01-31T23:59:59Z"
 }-----BEGIN NSCOESN SIGNATURE-----
-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
-AAAAAAAAAAAAAAADDxggJCkzOA==
+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
+AAAAAAAAAAAAAAAKDQ8SJCouNQ==
 -----END NSCOESN SIGNATURE-----
